@@ -1,0 +1,14 @@
+# Ignored Security Environment
+
+.env.development
+.env.production
+.env.testing
+
+# Ignored folders
+
+.vscode
+node_modules
+
+# Ignored Files
+
+package-lock.json

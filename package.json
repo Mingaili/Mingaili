@@ -1,0 +1,23 @@
+{
+  "name": "ebook_coding_learning",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Welcome to Míng ài lì's Github repository</h1>",
+  "main": "javascript/nodejs/main.js",
+  "scripts": {
+    "test": "set PROJECT_ENVIRONMENT=testing && node javascript/nodejs/main.js",
+    "start": "set PROJECT_ENVIRONMENT=production && node javascript/nodejs/main.js",
+    "start-dev": "set PROJECT_ENVIRONMENT=development && node javascript/nodejs/main.js"
+  },
+  "keywords": [],
+  "author": "mingaili",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}
