@@ -16,11 +16,11 @@ Halo jiljil 😉, selamat datang di github repository pembelajaran pemrograman. 
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
-[HTML]: https://github.com/mingaili/ebook_coding_learning/tree/main/html/
-[CSS]: https://github.com/mingaili/ebook_coding_learning/tree/main/css/
-[JavaScript]: https://github.com/mingaili/ebook_coding_learning/tree/main/javascript/
-[PHP]: https://github.com/mingaili/ebook_coding_learning/tree/main/php/
+[HTML]: https://github.com/Mingaili/Mingaili/tree/main/html/
+[CSS]: https://github.com/Mingaili/Mingaili/tree/main/css/
+[JavaScript]: https://github.com/Mingaili/Mingaili/tree/main/javascript/
+[PHP]: https://github.com/Mingaili/Mingaili/tree/main/php/
 
-[Framework]: https://github.com/mingaili/ebook_coding_learning/tree/main/framework/
+[Framework]: https://github.com/Mingaili/Mingaili/tree/main/framework
 
-[Issues]: https://github.com/mingaili/ebook_coding_learning/issues/new
+[Issues]: https://github.com/Mingaili/Mingaili/issues/new
