@@ -6,11 +6,3 @@
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
-
-
-    
-<!-- ---------------------------------------------------------------------------------------------------- -->
-
-[CodeIgniter4_Downloads]: https://github.com/Mingaili/Mingaili/releases/download/framework/CodeIgniter.4.zip
-
-[PHP]: https://github.com/Mingaili/Mingaili/tree/main/php/
