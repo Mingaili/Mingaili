@@ -14,6 +14,10 @@ Halo jiljil 😉, selamat datang di github repository pembelajaran pemrograman. 
 > [!NOTE]
 > Jika perlu kamu perlu bantuan dengan dokumentasi ini, silahkan membuat [Issues].
 
+<img src="./assets/create-issue.png">
+
+Masukkan title dengan tujuan pembahasan, lalu masukkan deskripsi yang terjadi, bisa juga menerakan file berupa gambar atau file yang ingin dikirimkan pada kolom `Attach files by dragging & dropping, selecting or pasting them`.
+
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 [HTML]: https://github.com/Mingaili/Mingaili/tree/main/html/
